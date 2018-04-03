@@ -1,0 +1,4 @@
+[EL Info]: 2018-04-02 21:32:18.541--ServerSession(1621284234)--EclipseLink, version: Eclipse Persistence Services - 2.6.4.v20160829-44060b6
+[EL Info]: connection: 2018-04-02 21:32:18.555--ServerSession(1621284234)--/file:/C:/Users/java user/Desktop/Homework Assignments/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/HotelRegistrationWesthoff/WEB-INF/classes/_HotelRegistrationWesthoff login successful
+[EL Severe]: ejb: 2018-04-02 21:32:18.556--ServerSession(1621284234)--java.lang.IllegalArgumentException: When generating DDL to scripts, a create script target must be specified using the [javax.persistence.schema-generation.scripts.create-target] property.
+[EL Info]: connection: 2018-04-02 21:32:18.558--ServerSession(1621284234)--/file:/C:/Users/java user/Desktop/Homework Assignments/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/HotelRegistrationWesthoff/WEB-INF/classes/_HotelRegistrationWesthoff logout successful
